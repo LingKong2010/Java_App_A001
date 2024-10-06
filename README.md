@@ -5,6 +5,6 @@ Chinese:
 四:没GUI界面，用控制台输入与输出;  
 English:  
 One: Name: Odd and even number judge    
-Two: Judgment principle: whether the input number (integer) can be %2, if it can be even, 和 vice versa;    
-Three: The source code does not add a loop at present, so it can only be run once, 和 it will automatically exit after running;    
-Four: There is no GUI interface, use the console to input 和 output;  
+Two: Judgment principle: whether the input number (integer) can be %2, if it can be even, and vice versa;    
+Three: The source code does not add a loop at present, so it can only be run once, and it will automatically exit after running;    
+Four: There is no GUI interface, use the console to input and output;
